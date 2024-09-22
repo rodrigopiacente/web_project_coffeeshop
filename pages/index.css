@@ -1,0 +1,45 @@
+.inter-regular {
+  font-family: "Inter", arial, sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.inter-medium {
+  font-family: "Inter", arial, sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.inter-bold {
+  font-family: "Inter", arial, sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.noto-serif-regular {
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.noto-serif-italic {
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: italic;
+  font-variation-settings: "wdth" 100;
+}
+
+.page {
+  max-width: 1600px;
+  min-width: 1100px;
+  margin: 0 auto;
+  font-family: "Inter", arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
