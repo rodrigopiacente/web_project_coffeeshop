@@ -1,17 +1,17 @@
 .inter-regular {
-  font-family: "Inter", arial, sans-serif;
+  font-family: "Inter-Regular", arial, sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
 .inter-medium {
-  font-family: "Inter", arial, sans-serif;
+  font-family: "Inter-Medium", arial, sans-serif;
   font-weight: 500;
   font-style: normal;
 }
 
 .inter-bold {
-  font-family: "Inter", arial, sans-serif;
+  font-family: "Inter-Bold", arial, sans-serif;
   font-weight: 700;
   font-style: normal;
 }
