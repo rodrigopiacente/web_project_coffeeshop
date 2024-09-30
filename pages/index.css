@@ -142,7 +142,7 @@ p {
   text-decoration: none;
 }
 
-.header__hours {
+.header__paragraph {
   font-family: "Inter", arial, sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -153,12 +153,6 @@ p {
 
 .header__address {
   align-self: flex-end;
-  font-family: "Inter", arial, sans-serif;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 20px;
-  color: #838383;
 }
 
 .recipes {
