@@ -231,8 +231,9 @@ p {
   line-height: 52px;
 }
 
-.reservation__form {
-}
+/* .reservation__form {
+  margin: 80px auto 0px;
+} */
 
 .form {
   margin: 80px auto 0px;
