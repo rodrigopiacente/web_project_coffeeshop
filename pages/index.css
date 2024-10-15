@@ -1,4 +1,13 @@
-.inter-regular {
+@import url("../vendor/normalize.css");
+@import url("../blocks/footer.css");
+@import url("../blocks/form.css");
+@import url("../blocks/header.css");
+@import url("../blocks/nav.css");
+@import url("../blocks/page.css");
+@import url("../blocks/recipes.css");
+@import url("../blocks/reservation.css");
+
+/* .inter-regular {
   font-family: "Inter-Regular", arial, sans-serif;
   font-weight: 400;
   font-style: normal;
@@ -43,9 +52,9 @@ p {
   font-family: "Inter", arial, sans-serif;
   font-size: 16px;
   line-height: 20px;
-}
+} */
 
-.header {
+/* .header {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -153,9 +162,9 @@ p {
 
 .header__address {
   align-self: flex-end;
-}
+} */
 
-.recipes {
+/* .recipes {
   background-color: #0a2750;
   background-image: url(../images/background_recipes.svg);
   background-repeat: no-repeat;
@@ -210,9 +219,9 @@ p {
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
-}
+} */
 
-.reservation {
+/* .reservation {
   background-color: #d9e7ff;
   background-image: url(../images/background_reservation.svg);
   background-size: cover;
@@ -230,13 +239,9 @@ p {
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
-}
-
-/* .reservation__form {
-  margin: 80px auto 0px;
 } */
 
-.form {
+/* .form {
   margin: 0 auto;
   max-width: 385px;
 }
@@ -305,4 +310,4 @@ p {
 
 ::placeholder {
   color: #838383;
-}
+} */
