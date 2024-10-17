@@ -10,6 +10,7 @@
   background-image: url(../images/background_header.svg);
   background-repeat: no-repeat;
   background-size: cover;
+  position: relative;
 }
 
 .header__content {

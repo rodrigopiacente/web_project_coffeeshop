@@ -2,7 +2,7 @@
   background-color: #0a2850;
   padding: 60px 80px;
   position: relative;
-  z-index: -2;
+  overflow: hidden;
 }
 
 .footer__content {
@@ -25,7 +25,6 @@
   position: absolute;
   left: -44px;
   top: -128px;
-  z-index: -1;
 }
 
 .footer__social-heading {
@@ -64,6 +63,12 @@
 
 .footer__social-link:hover {
   color: #c1c1c1;
+  cursor: pointer;
+}
+
+.footer__social-link:focus {
+  color: #c1c1c1;
+  cursor: pointer;
 }
 
 .footer__social-icon {
